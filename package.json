@@ -1,0 +1,30 @@
+{
+  "name": "less-bad",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadoNihi/less-bad.git"
+  },
+  "keywords": [
+    "blog",
+    "suffering-focused ethics",
+    "effective altruism",
+    "transhumanism",
+    "suffering abolition"
+  ],
+  "author": "Nil",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/ChadoNihi/less-bad/issues"
+  },
+  "homepage": "https://github.com/ChadoNihi/less-bad#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
