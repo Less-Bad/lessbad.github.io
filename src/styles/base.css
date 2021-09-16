@@ -83,6 +83,7 @@ abbr[title] {
 */
 
 code,
+time,
 kbd,
 samp,
 pre {
@@ -303,6 +304,15 @@ h1,
 h2,
 h3 {
   line-height: 1.15;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 200;
 }
 
 main {
@@ -537,8 +547,7 @@ footer {
   margin-top: 1rem;
 }
 
-figure > figcaption,
-header {
+figure > figcaption {
   text-align: center;
 }
 
@@ -683,11 +692,6 @@ picture {
   /* stylelint-disable-next-line selector-max-universal */
   nav li > *:not(ul):not(a):not(:only-child) {
     cursor: default;
-  }
-
-  /* stylelint-disable-next-line selector-max-universal */
-  nav li > *:not(ul):not(:only-child)::after {
-    content: " ▾";
   }
 }
 

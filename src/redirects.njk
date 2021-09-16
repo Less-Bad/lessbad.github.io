@@ -1,0 +1,11 @@
+---
+pagination:
+  data: redirects
+  size: 1
+  alias: redirect
+redirects:
+  - {"from": "{{ '/posts' | url }}", "to": "{{ '/' | url }}"}
+# The "permalink" attribute determines where the output page will be located.
+permalink: "{{ redirect.from | url }}"
+layout: templates/redirect.njk
+---

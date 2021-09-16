@@ -1,0 +1,41 @@
+---
+layout: templates/base.njk
+---
+<h1>{{ title }}</h1>
+
+{% if date or modDate or comments %}
+  <ul class="post-meta">
+    {% if date %}
+      <li>
+        published: <time>{{ date.toISOString().split('T')[0] }}</time>
+      </li>
+    {% endif %}
+    {% if modDate %}
+      <li>
+        last modified: <time>{{ modDate }}</time>
+      </li>
+    {% endif %}
+
+    {% if comments %}
+      <li>
+        <a href="{{ comments }}" target="_blank">comment ↗</a>
+      </li>
+    {% endif %}
+  </ul>
+{% endif %}
+
+<aside>
+  {{ content | toc | safe }}
+</aside>
+
+{{ content | safe }}
+
+{% if comments %}
+  <a href="{{ comments }}" target="_blank" class="bottom-comment-link">
+    comment <span aria-hidden="true">↗</span>
+  </a>
+{% endif %}
+
+<a href="{{ '/' |  url }}" class="bottom-home-link">
+  <span aria-hidden="true">⏎</span> to the home page
+</a>

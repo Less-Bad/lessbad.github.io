@@ -1,0 +1,16 @@
+<ol class="post-preview-list">
+{% for post in collections.post | reverse %}
+  <li>
+    <article>
+      <a href="{{ post.url | url }}">
+        <h1>
+          {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+        </h1>
+      </a>
+      {% if post.data.date%}
+        <time>{{ post.data.date.toISOString().split('T')[0] }}</time>
+      {% endif %}
+    </article>
+  </li>
+{% endfor %}
+</ol>
