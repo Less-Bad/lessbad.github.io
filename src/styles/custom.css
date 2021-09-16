@@ -1,0 +1,24 @@
+:root {
+  --site-title-color: var(--text-color);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --site-title-color: var(--link-visited-color);
+  }
+}
+
+header h2 {
+  color: var(--site-title-color);
+  display: inline-block;
+  font-weight: 100;
+  letter-spacing: 1rem;
+  margin: .7rem 0 0;
+  padding: .9rem;
+}
+header > p {
+  font-size: 1.2rem;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+  margin-top: .4rem;
+}
+

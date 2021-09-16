@@ -5,13 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title + " | " + site.title if title else site.title }}</title>
     <meta name="description" content="{{ description or site.description }}">
-    <link rel="stylesheet" href="{{ 'styles/base.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles/base.css' |  url }}">
+    <link rel="stylesheet" href="{{ '/styles/custom.css' |  url }}">
     <!--<link rel="alternate" href="{{ site.feed.path | url }}" type="application/atom+xml" title="{{ site.title }}">
     <link rel="alternate" href="{{ site.jsonfeed.path | url }}" type="application/json" title="{{ site.title }}">-->
   </head>
-  {% include "components/header.njk" %}
-  <main>
-    {{ content | safe }}
-  </main>
-  {% include "components/footer.njk" %}
+  <body>
+    {% include "components/header.njk" %}
+    <main>
+      {{ content | safe }}
+    </main>
+    {% include "components/footer.njk" %}
+  </body>
 </html>
