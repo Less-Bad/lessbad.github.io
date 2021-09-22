@@ -1,0 +1,14 @@
+image: node:16.9.1-slim
+
+pages:
+  script:
+  - npm install
+  - ENV=production npm run build
+  - mv ./_site ./public
+
+  artifacts:
+    paths:
+    - public
+
+  only:
+  - master
