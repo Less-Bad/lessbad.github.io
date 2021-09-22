@@ -1,3 +1,3 @@
 # Less Bad
 
-a WIP blog
+[a blog](https://alexandrnil.gitlab.io/less-bad/)
