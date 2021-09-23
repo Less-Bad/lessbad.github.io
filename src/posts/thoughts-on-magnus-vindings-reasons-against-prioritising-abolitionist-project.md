@@ -2,6 +2,7 @@
 title: "Thoughts on Magnus Vinding’s “Priorities for reducing suffering:
 Reasons not to prioritize the Abolitionist Project”"
 date: 2021-09-22
+comments: https://gitlab.com/AlexandrNil/less-bad/-/issues/2
 ---
 ## Preamble
 
