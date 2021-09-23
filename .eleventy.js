@@ -15,9 +15,6 @@ module.exports = function(eleventyConfig) {
     .use(markdownItFootnote)
   );
 
-  //FIXME: preprocess
-  eleventyConfig.addPassthroughCopy("src/styles");
-
   return {
     dir: {
       input: "src",
