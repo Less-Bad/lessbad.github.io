@@ -6,7 +6,7 @@ pages:
   - ENV=production npm run build
   - mv ./_site ./public
   - find public -type f -regex '.*\.\(html\|css\|txt\|js\|svg\|text\)$' -exec gzip -f -k -9 {} \;
-  # Install Brotli
+  # FIXME Install Brotli
   #- find public -type f -regex '.*\.\(html\|css\|txt\|js\|svg\|text\)$' -exec brotli -f -k -q 11 {} \;
 
   artifacts:
