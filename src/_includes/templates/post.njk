@@ -7,7 +7,7 @@ layout: templates/base.njk
   <ul class="post-meta">
     {% if date %}
       <li>
-        published: <time>{{ date.toISOString().split('T')[0] }}</time>
+        published: <time>{{ date | date }}</time>
       </li>
     {% endif %}
     {% if modDate %}

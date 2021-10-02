@@ -1,3 +1,4 @@
+const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
@@ -14,6 +15,10 @@ module.exports = function(eleventyConfig) {
     }).use(markdownItAnchor)
     .use(markdownItFootnote)
   );
+
+  eleventyConfig.addFilter("date", (dateObj) => {
+      return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+    });
 
   return {
     dir: {
