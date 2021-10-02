@@ -52,6 +52,10 @@ time {
   margin-right: 2rem;
 }
 
+.post-meta time {
+  margin-left: .8rem;
+}
+
 .post-preview-list {
   list-style: none;
 }
