@@ -123,7 +123,7 @@ Finally, even if AP were part of the general civilisational development, or if i
 
 #### Empathy
 
-I share Magnus’ concern that abolishing some forms of suffering in humans may result in reduced empathy or compassion. For without ever experiencing suffering, how would one get the “raw nastiness” of it?[^jo-cameron]
+I share Magnus’ concern that abolishing some forms of suffering in humans may result in reduced empathy or compassion. For without having ever experiencing suffering, how would one get the “raw nastiness” of it?[^jo-cameron]
 
 [^jo-cameron]: Interestingly, the woman from Scotland with the [FAAH-OUT mutation](https://en.wikipedia.org/wiki/Fatty_acid_amide_hydrolase#Function), which makes them immune to depression, anxiety, and pain, is a [vegan](https://www.theguardian.com/science/2019/mar/28/scientists-find-genetic-mutation-that-makes-woman-feel-no-pain). Alas, we cannot draw any conclusions as this is the only reported case of the mutation as far as I know.
 
