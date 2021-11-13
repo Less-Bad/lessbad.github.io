@@ -3,6 +3,8 @@ title: "Not a problem: an argument for prioritising suffering"
 date: 2021-11-13
 comments: https://gitlab.com/AlexandrNil/less-bad/-/issues/3
 ---
+## Motivation
+
 During April-June 2021 I participated in a series of online book club meetings dedicated to the first part of Magnus Vinding’s _[Suffering-Focused Ethics: Defense and Implications](https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/)_ (referenced as “(Vinding, 2020)” in the rest of the post). Most of the participants, aspiring effective altruists (EAs) from Germany, had strong classical utilitarian (CU) leanings or were otherwise sceptical about any fundamental reasons for prioritising reduction of suffering.
 
 This is only my impression - based on the discussions during the meetings as well as one one-on-one - but most of the participants were not unconvinced. One may reasonably suggest that this doesn’t matter in practice, as CUs and negative-leaning consequentialists are aligned in practice and are [reasonably cooperative](https://centerforreducingsuffering.org/research/why-altruists-should-be-cooperative/) anyway.
