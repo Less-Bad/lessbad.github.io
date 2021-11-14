@@ -30,7 +30,7 @@ To be more on the same page: by “suffering” I mean an overall bad, disagreea
 > … one’s experience may contain a component of pain or bittersweet sorrow, but if this component does not render the overall experience negative or disagreeable, then this experience does not constitute suffering on the definition employed here. (Vinding, 2020)
 
 
-## No problem: on severe suffering, missing happiness, and pure absence of happiness
+## Not a problem: on severe suffering, missing happiness, and pure absence of happiness
 
 In a nutshell, the argument is that the absence of happiness (or any other experiential state[^non-exp]) is not a problem unless there is someone who _suffers_ the absence (and in that case the suffering/dissatisfaction is what is inherently problematic, not the absence of happiness in itself). Or to put it differently, there’s no need or some kind of universal command[^oblig-source] to go from an empty or otherwise untroubled state to a state of (higher) “value”.
 
@@ -38,7 +38,7 @@ In a nutshell, the argument is that the absence of happiness (or any other exper
 
 [^non-exp]: In this post I focus mostly on experiential “values”. But since pursuing putative non-experiential sources of intrinsic “value” can come at the cost of not preventing unnecessary suffering, the problematicity of suffering I refer to in the text is still of direct relevance, I think.
 
-Whereas suffering is inherently problematic - its [defining](#what-is-suffering-a-simple-definition) badness is inherent to the experience itself - and, in the case of severe suffering, utterly urgent. Other things by themselves don’t have any urgency for actualising them. So they can wait.
+Whereas suffering is inherently problematic - its [defining](#what-is-suffering%3A-a-simple-definition) badness is inherent to the experience itself - and, in the case of severe suffering, utterly urgent. Other things by themselves don’t have any urgency for actualising them. So they can wait.
 
 When talking about the inherit or self-revealing “badness” or “disvalue” of suffering, an intuitive reply often is that happiness, in the analogous way, is self-intimatingly “good” or of “value”.
 
@@ -46,7 +46,7 @@ One answer is simply, however wonderful sublime happiness is, this doesn’t cha
 
 [^happiness-absence]: I’m pretty much repeating what Vinding wrote:
 
-> … no matter how intense happiness can be, it does not change the fact that there is no moral urgency found in the neutral absence of happiness, or in mild happiness that could be more intense. Nor does it change the fact that the presence of intense suffering is felt as intrinsically problematic, as experienced from the inside, whereas the notion that the absence of intense happiness carries a similarly problematic nature must be imposed from the outside — it is not intrinsic to the mere absence of happiness. (Vinding, 2020)
+	> … no matter how intense happiness can be, it does not change the fact that there is no moral urgency found in the neutral absence of happiness, or in mild happiness that could be more intense. Nor does it change the fact that the presence of intense suffering is felt as intrinsically problematic, as experienced from the inside, whereas the notion that the absence of intense happiness carries a similarly problematic nature must be imposed from the outside — it is not intrinsic to the mere absence of happiness. (Vinding, 2020)
 
 I also think it is important to distinguish the [phenomenal character](https://www.qualiaresearchinstitute.org/blog/rigorous-reports) of an experience from its semantic or “intentional” (i.e. “what-it-is-about”) content. Otherwise, we risk talking past each other from these different levels. For one can see certain ideas and objects in the world as being of intrinsic value, but one can argue that it is the phenomenal character of one’s consciousness about these ideas what ethically matters, not the semantic content of one’s ideas.
 
