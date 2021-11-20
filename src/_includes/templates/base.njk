@@ -7,8 +7,7 @@
     <meta name="description" content="{{ description or site.description }}">
     <link rel="stylesheet" href="{{ '/styles/base.css' |  url }}">
     <link rel="stylesheet" href="{{ '/styles/custom.css' |  url }}">
-    <!--<link rel="alternate" href="{{ site.feed.path | url }}" type="application/atom+xml" title="{{ site.title }}">
-    <link rel="alternate" href="{{ site.jsonfeed.path | url }}" type="application/json" title="{{ site.title }}">-->
+    {% block headAppend %}{% endblock %}
   </head>
   <body>
     {% include "components/header.njk" %}

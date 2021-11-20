@@ -1,3 +1,7 @@
+{% block headAppend %}
+  <link rel="alternate" href="{{ site.feedUrl | url }}" type="application/atom+xml" title="{{ site.title }}">
+{% endblock %}
+
 <ol class="post-preview-list">
 {% for post in collections.post | reverse %}
   <li>

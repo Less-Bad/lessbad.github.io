@@ -27,6 +27,7 @@
   "homepage": "https://github.com/ChadoNihi/less-bad#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
     "cssnano": "^5.0.8",
     "eleventy-plugin-nesting-toc": "^1.3.0",
     "markdown-it": "^10.0.0",

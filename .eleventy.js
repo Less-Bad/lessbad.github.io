@@ -3,12 +3,14 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 const pluginToc = require('eleventy-plugin-nesting-toc');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginToc, {
     tags: ['h2', 'h3', 'h4', 'h5', 'h6'],
     headingText: 'List of Contents'
   });
+  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.setLibrary("md", markdownIt({
       html: true
