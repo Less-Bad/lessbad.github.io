@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run minifyCss && eleventy",
+    "build": "npm run buildCss && eleventy",
     "serve": "eleventy --serve",
-    "minifyCss": "mkdir -p _site/styles && npx postcss ./src/styles/ -d ./_site/styles/"
+    "buildCss": "mkdir -p _site/styles && npx postcss ./src/styles/ -d ./_site/styles/"
   },
   "repository": {
     "type": "git",

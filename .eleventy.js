@@ -19,8 +19,8 @@ module.exports = function(eleventyConfig) {
   );
 
   eleventyConfig.addFilter("date", (dateObj) => {
-      return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
-    });
+    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+  });
 
   return {
     dir: {
