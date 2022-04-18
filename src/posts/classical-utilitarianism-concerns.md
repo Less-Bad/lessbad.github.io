@@ -4,6 +4,8 @@ date: 2020-11-14
 modDate: spring 2021
 comments: https://forum.effectivealtruism.org/posts/MhsJgYRarrtGdTv8S/some-concerns-with-classical-utilitarianism#comments
 ---
+## Intro
+
 <small>This post was [originally published on the EA Forum](https://forum.effectivealtruism.org/posts/MhsJgYRarrtGdTv8S/some-concerns-with-classical-utilitarianism).</small>
 
 As the majority of (aspiring) effective altruists endorse some kind of utilitarianism[^ea-majority], I’m especially keen on understanding if and how the concerns I’ve accumulated from elsewhere about classical utilitarianism[^cu-see-def] (CU)[^common] can be resolved. I would be glad if someone points me to resources and discussions where the concerns below have been addressed.
