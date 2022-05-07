@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChadoNihi/less-bad.git"
+    "url": "git+https://gitlab.com/less-bad/less-bad.gitlab.io.git"
   },
   "keywords": [
     "blog",
@@ -22,9 +22,9 @@
   "author": "Nil",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/ChadoNihi/less-bad/issues"
+    "url": "https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues"
   },
-  "homepage": "https://github.com/ChadoNihi/less-bad#readme",
+  "homepage": "https://gitlab.com/less-bad/less-bad.gitlab.io",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.2",

@@ -1,7 +1,7 @@
 ---
 title: "Planetary euthanasia and future suffering"
 date: 2021-12-26
-comments: https://gitlab.com/AlexandrNil/less-bad/-/issues/4
+comments: https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/4
 ---
 ## Meta
 
@@ -117,7 +117,7 @@ Even if suffering remained approximately at today’s levels, this would still b
 
 	> If we imagined that from now on, animals started emitting a red light every time they suffered, then from space, Earth would no longer be a blue planet, but a red and glowing one.
 
-Can anything be done to mitigate these risks? As I [wrote](https://alexandrnil.gitlab.io/less-bad/posts/thoughts-on-magnus-vindings-reasons-against-prioritising-abolitionist-project/) before, I think there is a strategy that is able to prevent a range of suffering risks, namely creating a future robust against the risks. And I see [replacing the biology of suffering](https://www.abolitionist.com/) with [information-sensitive gradients of wellbeing](https://www.gradients.com/) for all sentience[^less-wild] as the most promising route to such a future. For, once invincible wellbeing and caring for others are genetically preprogrammed, harming any [post-Darwinian](https://www.postdarwinism.com/) would be practically impossible (and, one hopes, simply [inconceivable](https://www.hedweb.com/ecstasy/index.html#mdmadarwin)).
+Can anything be done to mitigate these risks? As I [wrote](https://less-bad.gitlab.io/posts/thoughts-on-magnus-vindings-reasons-against-prioritising-abolitionist-project/) before, I think there is a strategy that is able to prevent a range of suffering risks, namely creating a future robust against the risks. And I see [replacing the biology of suffering](https://www.abolitionist.com/) with [information-sensitive gradients of wellbeing](https://www.gradients.com/) for all sentience[^less-wild] as the most promising route to such a future. For, once invincible wellbeing and caring for others are genetically preprogrammed, harming any [post-Darwinian](https://www.postdarwinism.com/) would be practically impossible (and, one hopes, simply [inconceivable](https://www.hedweb.com/ecstasy/index.html#mdmadarwin)).
 
 [^less-wild]: Complementary or interim approaches could include [reducing the amount of wild habitats](https://reducing-suffering.org/habitat-loss-not-preservation-generally-reduces-wild-animal-suffering/) and using non-lethal methods of fertility regulation for wild animals. The former, however, will likely be too controversial for the time being, and we should try to stay focused on the main approach (genetically preprogrammed well-being, that is) anyway.
 
