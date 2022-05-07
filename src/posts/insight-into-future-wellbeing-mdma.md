@@ -13,7 +13,7 @@ While adverse health effects of MDMA shouldn’t be [exaggerated](https://www.th
 
 (The list below is just a refresher, based on my (potentially faulty) reading of the sources provided and from elsewhere[^animal-testing]. I strongly recommend reading safety guides by [RollSafe.org](https://rollsafe.org/) or [TheDEA](https://www.thedea.org/) if you haven't.)
 
-[^animal-testing]: E.g. I try to avoid linking to studies that do non-human-animal experiments where substitute experiments with consenting humans were possible. (This is a topic for a future post.)
+[^animal-testing]: E.g. I try to avoid linking to studies which did non-human-animal experiments where substitute experiments with consenting humans were possible. (This is a topic for a future post.)
 
 At minimum, **always**:
 
@@ -122,7 +122,7 @@ Lastly, if enough people have had the MDMA experience, the second idea I share i
 
 —
 
-Do you find the ideas proposed in this post promising? Do you know someone who might be interested? What pitfalls should we anticipate if we preliminary start exploring these ideas? How could we avoid a potential backlash? Please share your thoughts in the [comments](https://gitlab.com/AlexandrNil/less-bad/-/issues/5).
+_Do you find the ideas proposed in this post promising? Do you know someone who might be interested? What pitfalls should we anticipate if we preliminary start exploring these ideas? How could we avoid a potential backlash? Please share your thoughts in the [comments](https://gitlab.com/AlexandrNil/less-bad/-/issues/5)._
 
 ## Recommended reading
 
