@@ -2,9 +2,9 @@
   "title": "Less Bad",
   "subtitle": "a blog",
   "description": "a blog on abolishing intense suffering and on transhumanism",
-  "url": "https://less-bad.gitlab.io/",
-  "feedUrl": "https://less-bad.gitlab.io/feed.xml",
-  "repo": "https://gitlab.com/less-bad/less-bad.gitlab.io",
+  "url": "https://lessbad.gitlab.io/",
+  "feedUrl": "https://lessbad.gitlab.io/feed.xml",
+  "repo": "https://gitlab.com/lessbad/lessbad.gitlab.io",
   "author": {
     "name": "Nil"
   }

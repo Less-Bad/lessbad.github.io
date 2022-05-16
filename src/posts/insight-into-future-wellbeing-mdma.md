@@ -1,7 +1,7 @@
 ---
 title: "The importance of the MDMA experience: an insight into potential post-Darwinian wellbeing?"
 date: 2022-05-07
-comments: https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/5
+comments: https://gitlab.com/lessbad/lessbad.gitlab.io/-/issues/5
 ---
 ## Read this first
 
@@ -70,7 +70,7 @@ Second, some people who have tried MDMA are already satisfied with their own liv
 
 Third, only a tiny minority of this minority have thought by themselves or encountered the idea of sustainable MDMA analogies and potentially MDMA-like phenotypes. Furthermore, some individuals who have tried MDMA have pre-existing beliefs and notions that make them oppose “re-encephalization” of the human mind even by non-genetic means (e.g. designer drugs).
 
-Likely there are more factors needed to cover the majority of human adults untouched or unconvinced by the MDMA experience (feel free to suggest yours in the [comments](https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/5)!). However, we don’t need to account for the majority of people, for if the idea I pose below holds promise, deeply inspiring even a minority of people [may be enough](https://www.sentienceinstitute.org/podcast/episode-10.html) to bootstrap the [abolitionist project](https://less-bad.gitlab.io/posts/thoughts-on-magnus-vindings-reasons-against-prioritising-abolitionist-project/).
+Likely there are more factors needed to cover the majority of human adults untouched or unconvinced by the MDMA experience (feel free to suggest yours in the [comments](https://gitlab.com/lessbad/lessbad.gitlab.io/-/issues/5)!). However, we don’t need to account for the majority of people, for if the idea I pose below holds promise, deeply inspiring even a minority of people [may be enough](https://www.sentienceinstitute.org/podcast/episode-10.html) to bootstrap the [abolitionist project](https://lessbad.gitlab.io/posts/thoughts-on-magnus-vindings-reasons-against-prioritising-abolitionist-project/).
 
 <a name=”idea”>The idea is the following:</a>
 
@@ -88,7 +88,7 @@ At the same time things look pretty normal (if only brighter and feel softer): t
 
 How confident am I in the proposal (i.e. that not only the MDMA experience would be more effective at making people enthusiastic about the abolitionist project compared to an introduction alone, but it would be one of the most effective intuition pumps for that purpose)? It’s hard to put a number on my confidence/uncertainty, as a lot there depends on implementation of particular interventions (not least since MDMA - the only reliable tool for inducing the MDMA experience - is still an illicit substance; see below). This alone lowers my confidence in a successful utilization of the idea. However, I am “pretty confident” in the basic promise of “the MDMA experience as a demo of future wellbeing”. Evidently, I’m also confident in the idea enough to write a blog post suggesting it as a potential intervention project for further discussion in the community.
 
-What to do with this idea anyway? If others don’t find it _a priori_ absurd (consider holding off your judgment until you have had the MDMA experience ;) though seriously, please do [comment](https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/5)), could we safely test it? As should be clear by now, the conjecture doesn’t seem too unlikely to me. The issue is rather that there appears to be no reliable way of inducing the MDMA experience other than taking the substance. This is potentially problematic, since the mere possession of MDMA is a criminal offense in most countries.
+What to do with this idea anyway? If others don’t find it _a priori_ absurd (consider holding off your judgment until you have had the MDMA experience ;) though seriously, please do [comment](https://gitlab.com/lessbad/lessbad.gitlab.io/-/issues/5)), could we safely test it? As should be clear by now, the conjecture doesn’t seem too unlikely to me. The issue is rather that there appears to be no reliable way of inducing the MDMA experience other than taking the substance. This is potentially problematic, since the mere possession of MDMA is a criminal offense in most countries.
 
 Hence, suggesting MDMA for testing the idea before the substance is decriminalized may seem irresponsible. At the very least one would need to plan for the worst as well (like facing imprisonment).
 
@@ -122,7 +122,7 @@ Lastly, if enough people have had the MDMA experience, the second idea I share i
 
 —
 
-_Do you find the ideas proposed in this post promising? Do you know someone who might be interested? What pitfalls should we anticipate if we preliminary start exploring these ideas? How could we avoid a potential backlash? Please share your thoughts in the [comments](https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/5)._
+_Do you find the ideas proposed in this post promising? Do you know someone who might be interested? What pitfalls should we anticipate if we preliminary start exploring these ideas? How could we avoid a potential backlash? Please share your thoughts in the [comments](https://gitlab.com/lessbad/lessbad.gitlab.io/-/issues/5)._
 
 ## Recommended reading
 

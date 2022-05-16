@@ -1,7 +1,7 @@
 ---
 title: "Not a problem: an argument for prioritising suffering"
 date: 2021-11-13
-comments: https://gitlab.com/less-bad/less-bad.gitlab.io/-/issues/3
+comments: https://gitlab.com/lessbad/lessbad.gitlab.io/-/issues/3
 ---
 ## Motivation
 
