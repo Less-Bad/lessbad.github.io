@@ -1,3 +1,10 @@
 <footer>
-  {% include "components/feed-link.njk" %}
+  <nav>
+    <a href="{{ '/' | url }}" class="site-title">{{ site.title }}</a>
+
+    <a href="{{ '/about' | url }}">About</a>
+    <a href="{{ '/tech-issue' | url }}">Report a fault / request a feature</a>
+    <a href="{{ '/contact' | url }}">Contact us</a>
+    {% include "components/feed-link.njk" %}
+  </nav>
 </footer>
