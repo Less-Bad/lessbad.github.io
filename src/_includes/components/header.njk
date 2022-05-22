@@ -1,7 +1,20 @@
 <header>
-  <a href="{{ '/' | url }}"><h2>{{ site.title }}</h2></a>
+  <a href="{{ '/' | url }}">
+    <h2 class="site-title">{{ site.title }}</h2>
+  </a>
   <p>a blog</p>
 
-  {% include "components/feed-link.njk" %}
+  <nav>
+    <div class="menu-trigger" aria-hidden="true" tabindex="0">
+      Meta
+    </div>
+    <div class="meta-menu">
+      <div class="close-menu-btn" title="Close" aria-hidden="true">&times;</div>
+      <a href="{{ '/about' | url }}">About</a>
+      <a href="{{ '/tech-issue' | url }}">Report a fault / request a feature</a>
+      <a href="{{ '/contact' | url }}">Contact us</a>
+      {% include "components/feed-link.njk" %}
+    </div>
+  </nav>
 </header>
 
