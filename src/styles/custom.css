@@ -104,7 +104,7 @@ nav a {
 
   .meta-menu {
     position: absolute;
-    top: 3rem;
+    top: 5rem;
     right: 0;
     display: flex;
     flex-direction: column;
@@ -127,21 +127,25 @@ nav a {
     width: 1px;
   }
 
-  @media (hover: none) {
+  .close-menu-btn {
+    display: block;
+    position: absolute;
+    top: -0.5rem;
+    right: 0;
+    cursor: pointer;
+    font-size: 1.9rem;
+    font-weight: 100;
+    padding: 0 0.5rem;
+    z-index: 1;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
     .meta-menu {
-      top: 5rem;
+      top: 3rem;
     }
     
     .close-menu-btn {
-      display: block;
-      position: absolute;
-      top: -0.5rem;
-      right: 0;
-      cursor: pointer;
-      font-size: 1.9rem;
-      font-weight: 100;
-      padding: 0 0.5rem;
-      z-index: 1;
+      display: none;
     }
   }
 }
